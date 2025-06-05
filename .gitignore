@@ -1,2 +1,4 @@
 Temp/
 *.py
+!Important.txt
+ShouldIgnore.txt
